@@ -126,6 +126,7 @@ def test_prediction(index, W1, b1, W2, b2):
 ![NN -2](https://user-images.githubusercontent.com/114279259/204082226-1a965708-c934-4cb7-a05d-cd6f138ca3c4.png)
 ![NN3](https://user-images.githubusercontent.com/114279259/204082237-550905ae-7352-4657-8587-bbd8789247b9.png)
 ![NN-4](https://user-images.githubusercontent.com/114279259/204082266-eeb5c2d4-2524-45b4-8e68-0fd9c33f4b99.png)
+
 ![NN-5](https://user-images.githubusercontent.com/114279259/204082290-c7896e95-554a-42f8-81f1-2c41537abb35.png)
 ![NN-06](https://user-images.githubusercontent.com/114279259/204082308-75fb92c1-3f28-43c2-927d-37ae709ac57c.png)
 ![NN -07](https://user-images.githubusercontent.com/114279259/204082315-7f44abfa-19ce-43fa-a0e9-24a4c4009202.png)
